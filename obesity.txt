@@ -1,0 +1,3 @@
+Find = audio/splash.wav 3.
+go up comment [ 8498 ] mov]
+at mov down first jne 

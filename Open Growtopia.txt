@@ -1,0 +1,2 @@
+shellExecute(os.getenv("localappdata") .. "\\Growtopia\\Growtopia.exe")
+or use os.execute("")

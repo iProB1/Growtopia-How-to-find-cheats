@@ -1,0 +1,3 @@
+Find = solid
+go down you will see at comment [ 888 ] imul ] 
+at imul down 2. je

@@ -1,0 +1,3 @@
+Find = audio/bell.wav 1.
+go up comment [ 0 ] cmp]
+at cmp up first je 

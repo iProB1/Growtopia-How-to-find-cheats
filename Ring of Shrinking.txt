@@ -1,0 +1,3 @@
+Find = audio/splash.wav 3.
+go down you will see at comment [ 1872 ] mov ] 
+at mov down  3. je

@@ -1,0 +1,2 @@
+Find = (Can't plant a tree in the air!)
+later go down first jmp 

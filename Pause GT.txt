@@ -1,0 +1,2 @@
+Find = audio/bell.wav 1.
+go up 14. or 13. jne ( %90 14. )
