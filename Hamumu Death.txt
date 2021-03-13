@@ -1,0 +1,2 @@
+find   = audio/plastic_ghost.wav
+go Up 8. JE 

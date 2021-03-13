@@ -1,0 +1,4 @@
+Search = This only works during 1 time
+go up and 
+u will see mov with ( comment )  3316
+2 down u will see jne thats ``Anti Check Point``

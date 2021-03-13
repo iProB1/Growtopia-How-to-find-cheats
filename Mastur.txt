@@ -1,0 +1,3 @@
+Find = audio/bell.wav 1.
+go up comment [ 2890 ] mov ]
+at mov down first jne 
