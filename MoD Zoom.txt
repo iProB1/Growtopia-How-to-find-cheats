@@ -1,2 +1,2 @@
 write = zoomSave
-2. CMP ( YUKARIDA )
+2nd CMP ( at up )
