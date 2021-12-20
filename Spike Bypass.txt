@@ -1,4 +1,4 @@
 ctrl + alt + r
 ctrl + f
 write = action|respawn_spike
-Yukardan üstte 3. jne
+at up 3th jne
