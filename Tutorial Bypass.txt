@@ -2,4 +2,4 @@ ctrl + j
 ctrl + alt + r
 ctrl + f
 write = you must complete the tutorial first!
-yukarıda ilk Call ( TUTORIAL BYPASS )
+at up first Call ( TUTORIAL BYPASS )
