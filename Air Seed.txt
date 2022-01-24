@@ -1,2 +1,3 @@
 find = audio/cant_place_tile.wav
-Go Up First jmp
+Go upper 
+First jmp opcode
