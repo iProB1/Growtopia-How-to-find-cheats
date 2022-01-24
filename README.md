@@ -1,7 +1,7 @@
 # How-to-find
 if you dont know how to find there 
 
-https://github.com/iProB1/Growtopia-How-to-find-cheats/howtofind.txt
+https://github.com/iProB1/Growtopia-How-to-find-cheats/blob/main/how%20to%20find
 
 my old file how to find cheat engine some cheats
 
